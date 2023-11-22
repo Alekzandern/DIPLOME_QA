@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.DebitCardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-22T15:06:14" hostname="WIN-N3GK5FLEDQ4" time="4.812">
+  <properties/>
+  <testcase name="shouldAddPaymentIDInOrderEntry()" classname="test.DebitCardTest" time="4.812"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[нояб. 22, 2023 10:06:17 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 119, so returning the closest version found: 115
+]]></system-err>
+</testsuite>
