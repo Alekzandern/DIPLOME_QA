@@ -18,11 +18,11 @@
 По результатам тестирования необходимо иИсправить выявленные баги:
 
 1. При вводе невалидных данных в поле "CVC/CVV" операция завершается успешно.https://github.com/Alekzandern/DIPLOME_QA/issues/19
-2. При вводе не валидных данных в поле "CVC/CVV" (купить в кредит) операция завершается успешно.https://github.com/Alekzandern/Diplom_QA/issues/8#issue-1990925346
-3. При вводе невалидных данных в поле "Владелец", после нажатии кнопки "Продолжить" статус заявки "Успешно!".https://github.com/Alekzandern/Diplom_QA/issues/7#issue-1990912980
-4. Проходит оплата по невалидной карте, во вкладке "Купить".https://github.com/Alekzandern/Diplom_QA/issues/6#issue-1990893664
-5. При вводе невалидных данных в поле "Месяц", после нажатии кнопки "Продолжить" статус заявки "Успешно!"https://github.com/Alekzandern/Diplom_QA/issues/5#issue-1990875716
-6. При вводе не верных данных владельца карты в поле "Купить в кредит" статус заявки "Успешно".https://github.com/Alekzandern/Diplom_QA/issues/4#issue-1990851044
-7. При вводе не верных данных владельца карты в полях "Купить" статус заявки "Успешно".https://github.com/Alekzandern/Diplom_QA/issues/3#issue-1990832734
-8. При вводе невалидных данных в поле "Владелец", после нажатии кнопки "Продолжить" статус заявки "Успешно!".https://github.com/Alekzandern/Diplom_QA/issues/2#issue-1990791618
-9. При вводе не валидных данных в поле "CVC/CVV" операция завершается успешно.https://github.com/Alekzandern/Diplom_QA/issues/1#issue-1990699778
+2. При вводе невалидных данных в поле "Владелец", после нажатии кнопки "Продолжить" статус заявки "Успешно!"https://github.com/Alekzandern/DIPLOME_QA/issues/18
+3. При вводе неверных данных владельца карты в полях "Купить" статус заявки "Успешно"!https://github.com/Alekzandern/DIPLOME_QA/issues/17
+4. При вводе не верных данных владельца карты в поле "Купить в кредит" статус заявки "Успешно"!https://github.com/Alekzandern/DIPLOME_QA/issues/16
+5. При вводе невалидных данных в поле "Месяц", после нажатии кнопки "Продолжить" статус заявки "Успешно!"https://github.com/Alekzandern/DIPLOME_QA/issues/15
+6. Проходит оплата по невалидной карте, во вкладке "Купить".https://github.com/Alekzandern/DIPLOME_QA/issues/14
+7. При вводе невалидных данных в поле "Владелец", после нажатии кнопки "Продолжить" статус заявки "Успешно!"https://github.com/Alekzandern/DIPLOME_QA/issues/13
+8. При вводе не валидных данных в поле "CVC/CVV" (купить в кредит) операция завершается успешно.https://github.com/Alekzandern/DIPLOME_QA/issues/12
+9. Проходит оплата по невалидной карте, во вкладке "Купить в кредит".https://github.com/Alekzandern/DIPLOME_QA/issues/11
