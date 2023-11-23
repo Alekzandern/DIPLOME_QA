@@ -17,7 +17,7 @@
 
 По результатам тестирования необходимо иИсправить выявленные баги:
 
-1. Проходит оплата по невалидной карте, во вкладке "Купить в кредит".https://github.com/Alekzandern/Diplom_QA/issues/9#issue-1990936537
+1. При вводе невалидных данных в поле "CVC/CVV" операция завершается успешно.https://github.com/Alekzandern/DIPLOME_QA/issues/19
 2. При вводе не валидных данных в поле "CVC/CVV" (купить в кредит) операция завершается успешно.https://github.com/Alekzandern/Diplom_QA/issues/8#issue-1990925346
 3. При вводе невалидных данных в поле "Владелец", после нажатии кнопки "Продолжить" статус заявки "Успешно!".https://github.com/Alekzandern/Diplom_QA/issues/7#issue-1990912980
 4. Проходит оплата по невалидной карте, во вкладке "Купить".https://github.com/Alekzandern/Diplom_QA/issues/6#issue-1990893664
